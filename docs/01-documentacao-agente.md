@@ -80,4 +80,4 @@ flowchart TD
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
-[Liste aqui as limitações explícitas do agente]
+Ele não dá dicas de investimentos
